@@ -1,0 +1,6 @@
+{
+  "name": "QuadWork - Student Freelance Marketplace",
+  "description": "Verified collegiate freelance marketplace connecting university talent with businesses and campus teams with milestone escrow and portfolio validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
